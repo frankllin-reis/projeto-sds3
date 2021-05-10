@@ -60,7 +60,3 @@ const DataTable = () => {
 }
 
 export default DataTable;
-
-function setActivePage(index: number) {
-    throw new Error("Function not implemented.");
-}
