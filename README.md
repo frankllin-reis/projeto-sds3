@@ -25,6 +25,7 @@ A aplicação consiste em listar uma tabela analítica de vendas, mostrando o de
 - Maven
 ## Front end
 - HTML / CSS / JS / TypeScript
+- Bootstrap
 - ReactJS
 - React Native
 - Apex Charts
